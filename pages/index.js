@@ -61,6 +61,8 @@ const Home = () => {
 
       {/* image */}
       <div>Image</div>
+      {/* bg img */}
+      <div></div>
     </div>
   );
 };
